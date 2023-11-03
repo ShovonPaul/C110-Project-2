@@ -1,0 +1,3 @@
+0  Rock class
+1 Paper class
+2 Scissor class
